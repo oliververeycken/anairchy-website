@@ -1,0 +1,112 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  background-image: url("concrete.jpg");
+  background-size: cover;
+}
+
+p {
+margin-left: 55px;
+color: white;
+margin-bottom: 20px;
+}
+
+.logo {
+  width: 20%;
+  margin-top: 20px;
+  margin-left: 55px;
+  opacity: 0.8;
+}
+
+li{
+  color: white;
+  font-size: 20px;
+  margin-bottom: 10px;
+  float: left;
+  clear: both;
+}
+
+ul {
+  margin-left: 25%;
+  clear: both;
+  margin-top: -90px;
+}
+
+a {
+  transition: padding-left 0.2s ease;
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  padding-left: 15px;
+  transition: padding-left 0.2s ease;
+}
+
+.foto1, .foto2, .foto3, .foto4,.foto5, .foto6, .foto7, .foto8, .foto9 {
+  width: 350px;
+  height: 350px;
+}
+
+.foto1, .foto2, .foto3 {
+  float: left;
+  margin-top: 140px;
+  margin-left: 55px;
+}
+
+.foto4,.foto5, .foto6, .foto7, .foto8, .foto9 {
+  float: left;
+  margin-top: 25px;
+  margin-left: 55px;
+}
+
+.foto7, .foto8, .foto9 {
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 70px;
+  margin-top: 20px;
+  text-align: center;
+  color: #00BFFF;
+}
+
+.about1 {
+  text-align: center;
+  width: 700px;
+  margin-top: 40px;
+  margin-left: 275px;
+}
+
+.loc {
+  width: 700px;
+  margin-left: 275px;
+}
+
+.about2 {
+  text-align: center;
+  width: 700px;
+  margin-top: 40px;
+  margin-left: 275px;
+}
+
+h2 {
+  text-align: center;
+  width: 700px;
+  margin-top: 20px;
+  margin-left: 275px;
+  color: white;
+}
+
+.drag{
+  margin-top: 40px;
+  margin-left: 340px;
+  margin-bottom: 40px;
+}
+
+.home{
+  color: white;
+  margin-left: 20px;
+  font-size: 50px;
+}
